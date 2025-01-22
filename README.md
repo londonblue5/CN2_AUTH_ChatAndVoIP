@@ -90,4 +90,6 @@ For any questions, suggestions, or contributions, feel free to reach out:
 
 - Email: msiavva@ece.auth.gr, siavvasm@gmail.com
 
- 
+ Team AP developers:
+ papoutsig@ece.auth.gr
+ klitsios@ece.auth.gr
